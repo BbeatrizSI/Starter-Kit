@@ -1,3 +1,6 @@
 h1 {
-  color: green;
+  color: lightgrey;
+  margin-left: 50px;
+  font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande',
+    'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }

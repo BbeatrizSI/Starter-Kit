@@ -1,6 +1,6 @@
 import { greet } from './js/componentes.js';
 import './styles.css';
 
-const name = 'New coder';
+const name = 'unknown coder!';
 
 greet(name);
